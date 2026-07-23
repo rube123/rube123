@@ -1,13 +1,13 @@
-# 👋 Hola, soy Rubén
+# Hola, soy Rubén
 
-🎓 Estudiante de Ingeniería en Sistemas  
-📱 Desarrollo apps móviles y sistemas web  
-🗄️ Bases de datos SQL/NoSQL + proyectos full-stack  
-⚡ También hago cosas de IoT con ESP32
+Estudiante de Ingeniería en Sistemas  
+Desarrollo apps móviles y sistemas web  
+Bases de datos SQL/NoSQL + proyectos full-stack  
+También hago cosas de IoT con ESP32
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 - **SII2**  
   https://github.com/rube123/SII2
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧰 Tecnologías
+## Tecnologías
 **Java**, **JavaScript**, **Dart**, **Python**  
 **Flutter**, **Node.js**, **Next.js**  
 **MySQL**, **SQL Server**, **MariaDB**, **PostgreSQL**, **SQLite**, **MongoDB**  
@@ -27,7 +27,7 @@
 
 ---
 
-## 🌎 Inglés
+## Inglés
 TOEFL (hace ~6 años). Actualmente con nivel alto para conversar, exponer y escribir.
 
 ---
